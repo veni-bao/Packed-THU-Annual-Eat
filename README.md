@@ -2,7 +2,7 @@
 
 一年过去了，你在华子食堂里花的钱都花在哪儿了？
 
-(此项目由电子系某位我不认识的学长写成，参见(https://github.com/leverimmy/THU-Annual-Eat).本人使用Pyinstaller将其打包为windows的.exe文件，来方便广大师生使用。打包后，只需要下载和运行main.exe即可。程序运行较慢，且稳定性较差。如果遇到异常，请尝试删除config.json后重试。下面是原本项目的介绍。服务代码获取方法参见下面讲解。)
+(此项目由电子系某位我不认识的学长写成，参见(https://github.com/leverimmy/THU-Annual-Eat). 本人使用Pyinstaller将其打包为windows的.exe文件，来方便广大师生使用。打包后，只需要下载和运行main.exe即可。程序运行较慢，且稳定性较差。如果遇到异常，请尝试删除config.json后重试。下面是原本项目的介绍。服务代码获取方法参见下面讲解。)
 
 ## 项目简介
 
